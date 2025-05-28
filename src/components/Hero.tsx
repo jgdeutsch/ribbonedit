@@ -16,8 +16,8 @@ const Hero = () => {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
-              The AI writing partner "they" took away from MS Word.
-              <span className="block text-blue-400 mt-2">Now back — faster and better than ever.</span>
+              The AI writing plugin for MS Word they took away.
+              <span className="block text-blue-400 mt-2">Now back.</span>
             </h1>
             
             <p className="text-lg md:text-xl text-gray-300 mb-8 leading-relaxed">
